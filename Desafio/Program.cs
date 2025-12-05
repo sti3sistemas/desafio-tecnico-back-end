@@ -15,10 +15,8 @@ builder.Services.AddDbContext<Contexto>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"))
 );
 
-// Request context + accessor for IdentificadorManipulador
 builder.Services.AddHttpContextAccessor();
 
-// Dependency Injection registrations
 builder.Services.AddScoped<INotificador, Notificador>();
 builder.Services.AddScoped<IClienteService, ClienteService>();
 builder.Services.AddScoped<ICompraService, CompraService>();
