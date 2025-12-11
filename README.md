@@ -1,7 +1,9 @@
 **Desafio Técnico — Desenvolvedor Backend .NET (STi3)**
 
 Bem-vindo ao desafio técnico para a vaga de Desenvolvedor Backend .NET na STi3.  
-Este repositório contém um projeto base e todas as instruções necessárias para a realização do teste.
+Este repositório contém um projeto base e todas as instruções necessárias para a realização do teste. Importante que você leia todas as instruções contidas aqui. Qualquer dúvida pode ser direcionada pelo linkedin ou e-mail nos contatos abaixo:
+E-mail: lucas.freire@sti3.com.br.
+Linkedin: https://www.linkedin.com/in/lucassrfreire
 
 O objetivo deste desafio é avaliar:
 
@@ -212,10 +214,11 @@ Descreva ou ajuste conforme necessário no seu repositório os detalhes de como 
 
 **Como entregar**
 
-1.  Crie um **repositório privado** no GitHub com a sua solução.
-2.  Adicione como colaborador do repositório o usuário:  
+1.  Clone este projeto base.
+2.  Crie um **repositório privado** no GitHub com a sua solução.
+3.  Adicione como colaborador do repositório o usuário:  
     lucas.freire@sti3.com.br
-3.  Desenvolva a solução no repositório criado até a data combinada para a entrega.
+4.  Desenvolva a solução no repositório criado até a data combinada para a entrega.
 
 ----------
 
